@@ -1,4 +1,4 @@
 # Udayraj Jhala
-Undergrad computer science student
+Computer Science student with a keen interest in technology, coding and problem solving.
 ## Skills 
-* Languages: C++, Python, C, Java
+* Languages: Java, C++, C, Javascript, HTML, CSS, Python
