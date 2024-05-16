@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Udayraj Jhala</h1>
+<h1 align="center">Hi, I'm Udayraj Jhala</h1>
 <h3 align="center">A Computer Science Undergrad trying to turn ideas into lines of code.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=udayrajjhala&label=Profile%20views&color=0e75b6&style=flat" alt="udayrajjhala" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=udayrajjhala" alt="udayrajjhala" /></a> </p>
+- 🌱 I’m currently learning **Web Development** , **Java**
 
-- 🌱 I’m currently learning **Web Development**
+- 📫 How to reach me **udayjhala.27@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
