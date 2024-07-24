@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Udayraj</h1>
-<h3 align="center">A Computer Science Undergrad trying to turn ideas into lines of code.</h3>
+<h3 align="center">A Computer Science undergrad trying to turn ideas into lines of code.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=udayrajjhala&label=Profile%20views&color=0e75b6&style=flat" alt="udayrajjhala" /> </p>
 
