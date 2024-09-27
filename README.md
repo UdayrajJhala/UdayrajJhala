@@ -1,4 +1,4 @@
-<h2 align="left">Hi, I'm Udayraj</h2>
+<h1 align="left">Hi, I'm Udayraj</h1>
 <h3>A computer science undergrad trying to turn ideas into lines of code</h3>
   
 
