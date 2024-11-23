@@ -68,7 +68,7 @@ Technologies:
 </div>
 
 <br>
-View my portfolio at http://udayrajjhala.vercel.app
+View my portfolio at https://udayrajjhala.vercel.app
 
 Reach me at udayjhala.27@gmail.com
 
