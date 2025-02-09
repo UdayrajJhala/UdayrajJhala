@@ -1,5 +1,5 @@
-<h1 align="left">Hi, I'm Udayraj</h1>
-<h3>A computer science undergrad trying to turn ideas into lines of code</h3>
+<h1 align="left">hi, i'm udayraj</h1>
+<h3>a computer science undergrad trying to turn ideas into lines of code</h3>
   
 
 ###
@@ -7,7 +7,7 @@
 <img align="right" height="200" src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif"  />
 
 ###
-Technologies:
+tech:
 <div align="left">
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -55,21 +55,10 @@ Technologies:
 
 ###
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/udayraj27/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.hackerrank.com/profile/udayjhala_27" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="hackerrank logo"  />
-  </a>
-  <a href="https://x.com/uday27__" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
-  </a>
-</div>
 
 <br>
-View my portfolio at https://udayrajjhala.vercel.app
+portfolio: https://udayrajjhala.vercel.app
 
-Reach me at udayjhala.27@gmail.com
+drop an email at: udayjhala.27@gmail.com
 
 ###
