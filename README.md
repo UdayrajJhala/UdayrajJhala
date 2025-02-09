@@ -1,7 +1,7 @@
 <h1 align="center">hi, i'm udayraj</h1>
 <h3 align="center">a computer science undergrad trying to turn ideas into lines of code</h3>
 
-<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="400" />
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="350" />
 
 - i'm currently working on **some fullstack projects**  
 - i'm currently learning **springboot, ml**  
