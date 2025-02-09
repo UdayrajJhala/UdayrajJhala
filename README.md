@@ -3,10 +3,14 @@
 
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="300" />
 
-- i'm currently working on **some fullstack projects**  
-- i'm currently learning **springboot, ml**  
-- portfolio [https://udayrajjhala.vercel.app](https://udayrajjhala.vercel.app)  
-- to reach me **udayjhala.27@gmail.com**  
+
+##### 📌 currently working on  **some full-stack projects**  
+
+##### 📖 currently learning  **spring boot, machine learning**  
+
+##### 🌐 portfolio  [udayrajjhala.vercel.app](https://udayrajjhala.vercel.app)  
+
+##### 📩 reach me at  **udayjhala.27@gmail.com**  
 
 <h3 align="left">connect:</h3>
 <p align="left">
