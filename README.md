@@ -1,8 +1,8 @@
 <h1 align="center">hi, i'm udayraj</h1>
 <h3 align="center">a computer science undergrad trying to turn ideas into lines of code</h3>
+<br>
 
 <img align="right" alt="GIF" src="https://64.media.tumblr.com/3ebef054c877d03c507aa8c40149908b/6ea0a0e867ebf441-0d/s1280x1920/515b1f92b9830672a913d4f32c3f233b08bf3643.gif" width="400" />
-
 
 - 📌 currently working on  **some full-stack projects**  
 
@@ -10,7 +10,7 @@
 
 - 🌐 portfolio  [udayrajjhala.vercel.app](https://udayrajjhala.vercel.app)  
 
-- 📩 reach me at  **udayjhala.27@gmail.com**  
+- 📩 reach me at udayjhala.27@gmail.com
 
 ### connect:
 <p align="left">
