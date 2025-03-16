@@ -6,7 +6,7 @@
 
 - 📌 currently working on  **some projects**  
 
-- 📖 currently learning  **spring boot, machine learning**  
+- 📖 currently learning  **spring boot, machine learning, cloud**  
 
 - 🌐 portfolio  [udayrajjhala.vercel.app](https://udayrajjhala.vercel.app)  
 
